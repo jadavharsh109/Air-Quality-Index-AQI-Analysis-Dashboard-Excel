@@ -3,11 +3,11 @@
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/AQI_dash_1.png" width="900">
+  <img src="AQI_dash_1.png" width="900">
 </p>
 
 <p align="center">
-  <img src="images/AQI_dash_2.png" width="900">
+  <img src="AQI_dash_2.png" width="900">
 </p>
 
 ---
